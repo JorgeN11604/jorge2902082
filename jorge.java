@@ -1,7 +1,9 @@
 public class jorge {
 
     public static void main(String[] argus){
- System.out.println(factorial(5));
+
+        Integer num = 1;
+ System.out.println(factorial(5 - num ));
     }
 
     public static long factorial(int n){
